@@ -70,5 +70,3 @@ A task management app built with Flutter and the Provider package, based on the 
 This project is licensed under the MIT License.
 
 ---
-
-You can modify the text, add screenshots, and include links as needed for your GitHub repository.
