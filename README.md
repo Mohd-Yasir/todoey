@@ -57,7 +57,7 @@ A task management app built with Flutter and the Provider package, based on the 
 
 | Task List                         | Add Task                       |
 |-----------------------------------|-------------------------------|
-| ![Task List](path-to-screenshot)  | ![Add Task](path-to-screenshot) |
+| ![task_screen](https://github.com/user-attachments/assets/15fd25b9-d2ec-4f77-b011-d268233131ef)  | ![add_screen](https://github.com/user-attachments/assets/0a0f16bc-d021-441a-9f8c-43730e98f425) |
 
 ## Future Improvements
 
